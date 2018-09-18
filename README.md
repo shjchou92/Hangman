@@ -1,2 +1,2 @@
 # Hangman
-Game of Hangman hard coded using turtle module.
+Game of Hangman coded using turtle module.
